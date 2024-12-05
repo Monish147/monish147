@@ -42,6 +42,9 @@ Dedicated **AI Engineer** with a passion for solving complex problems using **Ma
 
 ---
 
+![snake gif](https://github.com/monish147/monish147/blob/output/github-snake-dark.svg)
+
+
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=monish147&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
