@@ -1,11 +1,10 @@
-<div align="center">
 
 # 💫 About Me:
 Dedicated **AI Engineer** with a passion for solving complex problems using **Machine Learning (ML)**, **Deep Learning**, and **Generative AI**. I thrive on leveraging cutting-edge AI technologies to build scalable solutions that create real-world impact.  
-- 🔭 Currently working on **Generative AI Models** and **NLP Applications**.  
-- 🌱 Exploring advancements in **Reinforcement Learning** and **Graph Neural Networks**.  
-- 👯 Looking to collaborate on innovative **AI/ML projects** or **research initiatives**.  
-- 📫 Reach out at [LinkedIn](https://linkedin.com/in/mmonish147) to discuss opportunities.  
+ - 🔭 Currently working on **Generative AI Models** and **NLP Applications**.  
+ - 🌱 Exploring advancements in **Knowledge Graphs** and **Graph Neural Networks**.  
+ - 👯 Looking to collaborate on innovative **AI/ML projects** or **research initiatives**. 
+ - 📫 Reach out at [LinkedIn](https://linkedin.com/in/mmonish147) to discuss opportunities.  
 
 ---
 
@@ -34,7 +33,7 @@ Dedicated **AI Engineer** with a passion for solving complex problems using **Ma
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
-
+<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=monish147&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monish147&theme=transparent&hide_border=false)<br/>
